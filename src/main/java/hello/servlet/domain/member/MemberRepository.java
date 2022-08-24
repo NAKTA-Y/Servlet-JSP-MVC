@@ -7,6 +7,7 @@ import java.util.Map;
 
 public class MemberRepository {
 
+    // Memory Database
     private Map<Long, Member> store = new HashMap<>();
     private static Long sequence = 0L;
 
