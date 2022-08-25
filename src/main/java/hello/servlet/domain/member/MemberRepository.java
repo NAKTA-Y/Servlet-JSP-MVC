@@ -18,7 +18,7 @@ public class MemberRepository {
         return instance;
     }
 
-    //Constructor
+    //Constructor 막아둠
     private MemberRepository() {}
 
 
